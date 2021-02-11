@@ -1,0 +1,4 @@
+com/example/androidinanutshell/databinding/ActivityMainSplashingBinding.java
+ com.example.androidinanutshell.databinding.ActivityMainSplashingBinding
+com/example/androidinanutshell/BuildConfig.java
+ com.example.androidinanutshell.BuildConfig
