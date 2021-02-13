@@ -1,0 +1,1 @@
+/Users/phylx.belt/Documents/AndroidInANutshell/AndroidInANutshell-jenkins/app/build/classes/kotlin/main/AndroidInANutshell/jenkins/App.class:/Users/phylx.belt/Documents/AndroidInANutshell/AndroidInANutshell-jenkins/app/build/classes/kotlin/main/AndroidInANutshell/jenkins/AppKt.class
